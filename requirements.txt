@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+numpy-financial
+openpyxl
+scipy
+google-generativeai
+python-dotenv
